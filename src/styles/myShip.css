@@ -1,0 +1,26 @@
+
+.shipment-details-container {
+    border: 1px solid #ccc; /* Border for the container */
+    border-radius: 8px; /* Rounded corners */
+    padding: 20px; /* Padding inside the container */
+    margin: 20px; /* Margin around the container */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for a card-like effect */
+    background-color: #f9f9f9; /* Background color */
+ 
+    
+  }
+
+/* myShip.css */
+.see-customers {
+  background-image: url('C:\Users\harshini\Documents\project_scm\scm_frontend\src\images\plainBg.jpg'); /* Replace 'path_to_your_image.jpg' with the actual path to your image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 93vh; /* Ensure the background covers the entire viewport height */
+  padding: 20px; /* Adjust padding as needed */
+  /* Add other styles as required */
+
+ 
+}
+.back-button {
+  margin-bottom: 20px; /* Adjust as needed for desired space */
+}
